@@ -243,7 +243,7 @@ export default function HomePage() {
                   {/* Dashboard Content Image */}
                   <div className="relative aspect-[4/3] group">
                     <Image 
-                      src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=hero-dashboard-preview"
+                      src="https://static.wixstatic.com/media/35411e_56d7901b443546688cb609e459659c54~mv2.png?originWidth=768&originHeight=576"
                       alt="Monito AI Dashboard Interface showing profit metrics"
                       width={800}
                       height={600}
@@ -321,7 +321,7 @@ export default function HomePage() {
                       <div className="absolute inset-8 border border-dashed border-primary/20 rounded-full animate-[spin_15s_linear_infinite_reverse]" />
                       <div className="absolute inset-0 flex items-center justify-center">
                         <Image 
-                          src="https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=process-visualization"
+                          src="https://static.wixstatic.com/media/35411e_a73c4680f7a04f168664a361275c1d4c~mv2.png?originWidth=384&originHeight=384"
                           alt="Data processing visualization"
                           width={400}
                           height={400}
@@ -466,7 +466,7 @@ export default function HomePage() {
                   <div className="relative aspect-video rounded-2xl overflow-hidden border border-white/10 shadow-2xl group">
                     <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity z-10" />
                     <Image 
-                      src={useCase.illustration || `https://static.wixstatic.com/media/12d367_71ebdd7141d041e4be3d91d80d4578dd~mv2.png?id=usecase-${index}`}
+                      src={useCase.illustration || 'https://static.wixstatic.com/media/35411e_b1da7b480c594d4f8a5f78c27e020cd9~mv2.png?originWidth=768&originHeight=576'}
                       alt={useCase.title || "Use case illustration"}
                       width={800}
                       height={600}
