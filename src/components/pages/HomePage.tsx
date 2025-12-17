@@ -194,7 +194,7 @@ export default function HomePage() {
             <AnimatedReveal delay={300}>
               <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
                 <a
-                  href="/app"
+                  href="https://e1a1feaa-a77f-4fa4-be93-79c2ec756fc4-00-21ljf9t085mjd.sisko.repl.co/"
                   className="group relative px-8 py-4 bg-primary text-black font-bold rounded-lg overflow-hidden transition-all hover:scale-105"
                 >
                   <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
